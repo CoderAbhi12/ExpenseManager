@@ -1,0 +1,18 @@
+.navbar {
+    /* background-color: #3c484b42 !important;*/
+    background: linear-gradient(to right, #64cad5, #b993df);
+  }
+  .navbar .navbar-brand {
+    color: #9a9089 !important;
+    font-weight: bold;
+    font-size: 1.5rem;
+  }
+  
+  .nav-link {
+    font-size: 1.2rem;
+  }
+  
+  .navbar h6 {
+    margin-top: 0px;
+    margin-right: 20px;
+  }
